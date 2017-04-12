@@ -1,0 +1,19 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "description": "Simple Books Store Api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.6",
+    "express": "*",
+    "mongoose": "*",
+    "morgan": "^1.8.1",
+    "multer": "^1.3.0"
+  },
+  "author": "Tony López Pagán",
+  "license": "ISC"
+}
